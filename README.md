@@ -1,6 +1,8 @@
 # food_security_and_political_instability
 EMCA 31330 Final Report Understanding Food Security, Undernourishment, and Political Stability: A Supervised Machine Learning and Data-Driven Approach
 
+In the repository, we present our links to datasets, notebooks for data processing, merging and regression results. 
+
 Agriculture accounts for a comparatively small share of the global economy, but remains central in shaping
 the economic, health, and political scene of a nation. According to the Food and Agriculture Organization
 of the United Nations (FAO), many regions in the world with variable food supplies can be considered
@@ -22,4 +24,4 @@ and be used to understand and even predict the undernourishment level and politi
 econometric investigation will have two primary components: 1) Interpretation and Comparison with
 present literature, and 2) Predictions of undernourishment levels and political stability levels of a nation.
 
-In the repository, we present our notebooks for datasets, dataprocessing, merging steps and regression results. 
+
