@@ -21,3 +21,5 @@ agricultural sector, supported by different economic conditions and environmenta
 and be used to understand and even predict the undernourishment level and political stability. In particular,
 econometric investigation will have two primary components: 1) Interpretation and Comparison with
 present literature, and 2) Predictions of undernourishment levels and political stability levels of a nation.
+
+In the repository, we present our notebooks for datasets, dataprocessing, merging steps and regression results. 
