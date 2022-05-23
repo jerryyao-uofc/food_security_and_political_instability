@@ -1,5 +1,5 @@
 # food_security_and_political_instability
-EMCA 31330 Final Report Understanding Food Security, Undernourishment, and Political Stability: A Supervised Machine Learning and Data-Driven Approach
+ECMA 31330: Econometrics and Machine Learning: Final Report Understanding Food Security, Undernourishment, and Political Stability: A Supervised Machine Learning and Data-Driven Approach
 
 In the repository, we present our links to datasets, notebooks for data processing, merging and regression results. 
 
