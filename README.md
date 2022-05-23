@@ -3,6 +3,7 @@ ECMA 31330: Econometrics and Machine Learning: Final Report Understanding Food S
 
 In the repository, we present our links to datasets, notebooks for data processing, merging and regression results. 
 
+Introduction on the project: 
 Agriculture accounts for a comparatively small share of the global economy, but remains central in shaping
 the economic, health, and political scene of a nation. According to the Food and Agriculture Organization
 of the United Nations (FAO), many regions in the world with variable food supplies can be considered
